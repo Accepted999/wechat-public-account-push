@@ -25,7 +25,7 @@ export const config = {
       // 想要发送的人的名字
       name: "CafeNokia",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oUcVN5sBhcY8FIUhTytoTtgpGYWE",
+      id: "oUcVN5ldOQvHUZLOdXH1fwDSwN7g",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "WSjd41XINEZaKW3pJxOyFztCy36PpvfIBOLm4jTgGVY",
       // 所在省份
