@@ -25,13 +25,13 @@ export const config = {
       // 想要发送的人的名字
       name: "CafeNokia",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oUcVN5g6ijFA3HKeWxe50BTVMYY8",
+      id: "oUcVN5nNEV4cc0QyCnIaerixqTBg",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "WSjd41XINEZaKW3pJxOyFztCy36PpvfIBOLm4jTgGVY",
       // 所在省份
-      province: "天津",
+      province: "黑龙江",
       // 所在城市
-      city: "天津",
+      city: "哈尔滨",
       // 新历生日, 仅用作获取星座运势, 格式必须
       //horoscopeDate: '5-8',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -41,11 +41,11 @@ export const config = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "Vicky", "year": "1997", "date": "06-04"},
-        {"type": "节日", "name": "相爱纪念日", "year": "2022", "date": "09-03"},
+        {"type": "*生日", "name": "Vicky", "year": "2001", "date": "07-09"},
+        {"type": "节日", "name": "相爱纪念日", "year": "2022", "date": "10-10"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "生日", "name": "Carp", "year": "2000", "date": "09-30"},
-        {"type": "节日", "name": "初识纪念日", "year": "2022", "date": "07-25"},
+        {"type": "节日", "name": "初识纪念日", "year": "2020", "date": "09-02"},
 		]
 	},
 	],
